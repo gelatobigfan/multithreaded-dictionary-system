@@ -1,0 +1,6 @@
+apple	222
+111	number;number111;1234
+123	number
+pear	fruit
+clara	me;3
+123456	number
